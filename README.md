@@ -9,6 +9,13 @@ net-tools python udhcpd
 Note: udhcpd is a DHCP server for Ubuntu and Debian.  
 Note: Two in-house players are written for Raspberry Pi 3. You may use omxplayer or vlc on other platforms.
 
+# Required libaries
+libavcodec
+libavforamt
+libasound2-dev
+libavutil-dev
+libx11-dev
+
 # Preparation
 Install missing packages.  
 Download the latest release from https://github.com/homeworkc/lazycast/releases.  
